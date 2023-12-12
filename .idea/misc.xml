@@ -10,7 +10,7 @@
           <option name="libDir" value="" />
           <option name="encoding" value="" />
           <option name="pkg" value="" />
-          <option name="language" value="" />
+          <option name="language" value="Python3" />
           <option name="generateVisitor" value="true" />
         </PerGrammarGenerationSettings>
       </list>
