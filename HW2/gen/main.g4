@@ -1,4 +1,4 @@
-grammar maincalculator;
+grammar main;
 
 equation
     : expression relop expression EOF
