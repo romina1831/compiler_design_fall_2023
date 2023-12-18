@@ -14,14 +14,14 @@ This grammar is designed to recognize specific patterns in text, including email
 - `POSTAL_CODE`: Matches a postal code in the format of digits separated by a hyphen.
 
 ## Example
- input:
-john.doe@gmail.com
-http://example.com
-42.75
-123456789
-v1.2.3
-90210
-12345-6789
+ **Input:**
+```plaintext
+Email: john.doe@gmail.com
+Website Address: http://example.com
+Decimal Number: 42.75
+National Number: 123456789
+Application Version: v1.2.3
+Postal Code: 12345-6789
 
 
 
