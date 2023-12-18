@@ -16,12 +16,12 @@ This grammar is designed to recognize specific patterns in text, including email
 ## Example
  **Input:**
 ```plaintext
-Email: john.doe@gmail.com
-Website Address: http://example.com
-Decimal Number: 42.75
-National Number: 123456789
-Application Version: v1.2.3
-Postal Code: 12345-6789
+ john.doe@gmail.com
+ http://example.com
+ 42.75
+ 123456789
+ v1.2.3
+ 12345-6789
 
 
 
