@@ -23,7 +23,6 @@ National Number: 123456789
 Application Version: v1.2.3
 Postal Code: 12345-6789
 
-![Screenshot (47)](https://github.com/romina1831/compiler_design_fall_2023/assets/153179325/2f3f33a0-c33e-475e-bf49-ca68b4487fa6)
 
 
 
