@@ -1,4 +1,4 @@
-# Grammar Usage Example
+ # Grammar Usage Example
 
 ## Introduction
 
@@ -24,5 +24,6 @@ This grammar is designed to recognize specific patterns in text, including email
  12345-6789
 
 
+![Screenshot (47)](https://github.com/romina1831/compiler_design_fall_2023/assets/153179325/ef4ab024-2283-4b69-8fb3-948129b3c8c4)
 
 
