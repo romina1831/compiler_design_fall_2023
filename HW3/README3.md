@@ -21,4 +21,4 @@ http://example.com
 123456789
 v1.2.3
 
-![Screenshot (45).png](..%2F..%2F..%2FPictures%2FScreenshots%2FScreenshot%20%2845%29.png)
+
