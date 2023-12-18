@@ -22,8 +22,12 @@ This grammar is designed to recognize specific patterns in text, including email
  123456789
  v1.2.3
  12345-6789
+```
+
+![Screenshot (47)](https://github.com/romina1831/compiler_design_fall_2023/assets/153179325/19403187-c98a-45d6-bfae-5d7cdf696548)
 
 
-![Screenshot (47)](https://github.com/romina1831/compiler_design_fall_2023/assets/153179325/ef4ab024-2283-4b69-8fb3-948129b3c8c4)
+
+
 
 
