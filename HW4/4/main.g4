@@ -1,11 +1,13 @@
 grammar main;
 
-password : PASSWORD;
+palindrome
+    : 'z' entry EOF ;
+entry
+    : 'a' entry 'a'
+    | 'b' entry 'b'
+    | 'a'
+    | 'b'
+    |
+    ;
 
-PASSWORD : (UPPERCASE | SYMBOL | DIGIT | WS)+;
-
-UPPERCASE : [A-Z];
-SYMBOL : [!@#$%^&*()-_=+[\]{};:'",<.>/?];
-DIGIT : [0-9];
-WS : [ \t\r\n]+ -> skip; // Skip whitespaces
-
+WS : [ \t\r\n]+ -> skip ;
