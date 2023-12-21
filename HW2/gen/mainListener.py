@@ -1,4 +1,4 @@
-# Generated from C:/Users/Main user/Desktop/compiler_design_fall_2023/HW2/gen/main.g4 by ANTLR 4.13.1
+# Generated from C:/Users/Main user/Desktop/compiler_design_fall_2023/HW2/gen/main.g4 by ANTLR 1.13.1
 from antlr4 import *
 if "." in __name__:
     from .mainParser import mainParser

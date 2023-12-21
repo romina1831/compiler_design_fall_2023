@@ -1,4 +1,4 @@
-# Generated from C:/Users/Main user/Desktop/compiler_design_fall_2023/HW2/gen/main.g4 by ANTLR 4.13.1
+# Generated from C:/Users/Main user/Desktop/compiler_design_fall_2023/HW2/gen/main.g4 by ANTLR 1.13.1
 # encoding: utf-8
 from antlr4 import *
 from io import StringIO
@@ -109,7 +109,7 @@ class mainParser ( Parser ):
 
     def __init__(self, input:TokenStream, output:TextIO = sys.stdout):
         super().__init__(input, output)
-        self.checkVersion("4.13.1")
+        self.checkVersion("1.13.1")
         self._interp = ParserATNSimulator(self, self.atn, self.decisionsToDFA, self.sharedContextCache)
         self._predicates = None
 
