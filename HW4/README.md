@@ -22,21 +22,4 @@ This grammar defines a simple structure for password validation in a formal lang
 ### `SYMBOL`
 - This rule represents any symbol character. Symbols include ! @ # $ % ^ & * ( ) - = _ + { } [ ] | ; ' : " , . < > ? /
 
-### `WS`
-- This rule skips whitespace characters such as tabs, carriage returns, and newlines.
-
-## Usage
-
-To use this grammar, you can generate a parser using ANTLR and then integrate it into your desired programming language. The grammar is designed to validate passwords based on the specified rules.
-
-### Example:
-
-```java
-// Sample code in Java using ANTLR runtime
-CharStream input = CharStreams.fromString("your_password_here");
-PasswordGrammarLexer lexer = new PasswordGrammarLexer(input);
-CommonTokenStream tokens = new CommonTokenStream(lexer);
-PasswordGrammarParser parser = new PasswordGrammarParser(tokens);
-
-// Use the generated parser to parse the input
-parser.password();
+## example
