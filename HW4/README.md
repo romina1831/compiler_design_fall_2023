@@ -23,3 +23,4 @@ This grammar defines a simple structure for password validation in a formal lang
 - This rule represents any symbol character. Symbols include ! @ # $ % ^ & * ( ) - = _ + { } [ ] | ; ' : " , . < > ? /
 
 ## example
+![Screenshot (73)](https://github.com/romina1831/compiler_design_fall_2023/assets/153179325/d7839a1d-c103-46bd-9d76-77f8bba477bd)
